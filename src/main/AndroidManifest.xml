@@ -2,8 +2,7 @@
     xmlns:dist="http://schemas.android.com/apk/distribution"
     package="in.canews.zeronetmobile.arm_python">
 
-    <application
-        android:hasCode="false"/>
+    <application android:hasCode="false" />
 
     <dist:module
         dist:instant="false"
@@ -14,4 +13,3 @@
         <dist:fusing dist:include="false" />
     </dist:module>
 </manifest>
-
